@@ -9,7 +9,7 @@ type Lexer struct {
 	ch           byte // use rune for UTF-8, else is ASCII
 }
 
-func NewLexer(input string) *Lexer {
+func New(input string) *Lexer {
 	l := &Lexer{input: input}
 	l.readChar()
 	return l
