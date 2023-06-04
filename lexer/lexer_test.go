@@ -1,7 +1,7 @@
 package lexer
 
 import (
-	"little-cp/token"
+	"sad-language/token"
 	"testing"
 )
 

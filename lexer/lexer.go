@@ -1,6 +1,6 @@
 package lexer
 
-import "little-cp/token"
+import "sad-language/token"
 
 type Lexer struct {
 	input        string

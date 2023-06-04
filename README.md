@@ -1,6 +1,7 @@
-# little-cp
+# A SAD language
 
-My little cp
-Just4fun&Learning
+This is a SAD language for sad programmers. 
 
-a SAD programming language, based on a true sad story
+# Goals
+
+Enable sad programmers to write SAD language and sadly compile.

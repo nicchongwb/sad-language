@@ -2,9 +2,9 @@ package main
 
 import (
 	"fmt"
-	"little-cp/repl"
 	"os"
 	"os/user"
+	"sad-language/repl"
 )
 
 func main() {
